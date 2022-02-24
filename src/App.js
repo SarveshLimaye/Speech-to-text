@@ -16,7 +16,9 @@ function App() {
   const [savedNotes, setSavedNotes] = useState([])
 
   useEffect(() => {
+   
     handleListen()
+     // eslint-disable-next-line
   }, [isListening])
 
   const handleListen = () => {
