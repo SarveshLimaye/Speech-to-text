@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SarveshLimaye/Speech-to-text.git/static/css/main.1c484a1b.css",
+    "main.js": "/SarveshLimaye/Speech-to-text.git/static/js/main.ef7a2a5b.js",
+    "static/js/787.ed518d43.chunk.js": "/SarveshLimaye/Speech-to-text.git/static/js/787.ed518d43.chunk.js",
+    "index.html": "/SarveshLimaye/Speech-to-text.git/index.html",
+    "main.1c484a1b.css.map": "/SarveshLimaye/Speech-to-text.git/static/css/main.1c484a1b.css.map",
+    "main.ef7a2a5b.js.map": "/SarveshLimaye/Speech-to-text.git/static/js/main.ef7a2a5b.js.map",
+    "787.ed518d43.chunk.js.map": "/SarveshLimaye/Speech-to-text.git/static/js/787.ed518d43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c484a1b.css",
+    "static/js/main.ef7a2a5b.js"
+  ]
+}
